@@ -1,0 +1,35 @@
+meta:
+    name: 23-key-macropad
+    author: grant-22
+units:
+    kx: u
+    ky: u
+points:
+  zones:
+    matrix:
+      columns:
+        outer:
+        pinky:
+        ring:
+        middle:
+        index:
+                      rows.mod.skip: true
+        inner:
+                      rows.mod.skip: true
+      rows:
+        mod:
+        bottom:
+        home:
+        top:
+    thumbs:
+      key:
+        width: 2u
+      anchor:
+        ref: matrix_inner_mod
+        shift: [-9.5, -0]
+outlines:
+  left:
+    - what: rectangle
+      where: true
+      size: [kx +6, ky +6]
+      fillet: 7
