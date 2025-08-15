@@ -1,4 +1,4 @@
-# evil-twin-macropd
+# evil-twin (macropad)
 an updated version of my koolertron 23 key macro pad 
 ![20250816_002929](https://github.com/user-attachments/assets/bf1bdaf9-86e3-42d7-b9b9-f05c5524d0d2)
 ![20250816_003035](https://github.com/user-attachments/assets/20b95d32-0d9d-4028-a1f1-f263a514bec0)
